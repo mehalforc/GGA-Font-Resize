@@ -1,0 +1,31 @@
+{
+  "name": "gga-font-resizer",
+  "title": "GGA Font Resizer",
+  "description": "GGA Font Resizer - Made by Stevil",
+  "author": "Stevil",
+  "authors": [],
+  "url": "",
+  "flags": {},
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.7.0",
+  "compatibleCoreVersion": "9",
+  "scripts": [],
+  "esmodules": ["./main.js"],
+  "styles": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "./lang/en.json"
+    }
+  ],
+  "packs": [],
+  "system": [],
+  "dependencies": [],
+  "socket": false,
+  "manifest": "",
+  "download": "",
+  "protected": false,
+  "coreTranslation": false,
+  "library": false
+}
